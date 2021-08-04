@@ -150,7 +150,7 @@ namespace DIO.Bank
 			Console.WriteLine("1- Listar contas");
 			Console.WriteLine("2- Inserir nova conta");
 			Console.WriteLine("3- Comprar");
-			Console.WriteLine("4- Vender");
+			Console.WriteLine("4- Depositar");
 			Console.WriteLine("5- Inserir novo Item");
 			Console.WriteLine("6- Listar Itens");
             Console.WriteLine("C- Limpar Tela");
