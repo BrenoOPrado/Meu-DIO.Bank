@@ -1,3 +1,2 @@
 # Meu-DIO.Bank
-:tartaruga:
-🐢
+#🐢
